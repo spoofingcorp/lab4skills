@@ -23,14 +23,14 @@ Vous êtes salarié de la sociéte de prestation de service **BestNetworkTech** 
 
 | Commande | Descriptif |
 | -------- | ---------- |
-| `ipconfig /all`  |  Affiche les informations réseau du poste client > APIPA > Pas bien !|
+| `ipconfig /all`  |  Affiche les informations réseau du poste client > APIPA > Problème de config |
 | `ipconfig /release` | Relache le bail DHCP |
-| `ipconfig /renew` | Demande un nouveau bail DHCP - DORA > APIPA ? > Pas bien ! |
-|`ping passerelle` | Nécessaire pour communiquer en dehors du VLAN *(Ne taper pas "passerelle" mais son IP*) |
+| `ipconfig /renew` | Demande un nouveau bail DHCP - DORA > APIPA ? > Problème de config  |
+| `ping passerelle` | Nécessaire pour communiquer en dehors du VLAN *(Ne taper pas "passerelle" mais son IP*) |
 | `ping IP_serveur_DNS_de_la_société` | Test la communication avec le serveur DNS interne |
 | `nslookup les_noms_de_domaine_interne` | Test la résolution des enregistrements DNS internes |
 | `ping 8.8.8.8` | Test internet en IP |
-|`nslookup google.com` | Test résolution d'un nom de domaine externe public en une adresse IP |
+| `nslookup google.com` | Test résolution d'un nom de domaine externe public en une adresse IP |
 | `ping google.com` | Test résolution d'un nom de domaine externe public en une adresse IP + Test ICMP vers internet en IP après la résolution DNS |
 
 
@@ -93,15 +93,15 @@ Cette fois, vous devrez nous faire parvenir vos résultats en fin de scéance vi
 | Exercices | Pannes |
 | -------- | ---------- |
 | TB_01 |	Port Shutdown Switch_L2_01 > Laptop 01 |
-|TB_02 |	WAN interface G0/0/0 shutdown |
-|TB_03 |	Port TRUNK Switch L2_01 - VLAN Allowed 199 seulement |
-|TB_04 |	Server DHCP - Mauvaise Adresse IP carte réseau Server DHCP |
-|TB_05 |	Messagerie Internet - Mauvais mot de passe compte user2 + mauvais smtp user1 |
-|TB_06 |	Server DNS mauvaise passerelle |
-|TB_07	| PC's Prod - Mauvaise config carte réseau |
-|TB_08 |	AP Wifi dans le mauvais VLAN + mauvais password dans l'AP |
-|TB_09 |	Cable réseau + 100m (vue physique) + Laptop 03 n'est plus dans la couverture WLAN (vue physique)  + Laptop 02  inversion cablage tel IP port Switch/PC |
-|TB_10 |	SVI Shutdown Switch L3 + Désactivation Services DHCP + Désactivation Services DNS + SVI VLAN 20 192.168.22.1 |
+| TB_02 |	WAN interface G0/0/0 shutdown |
+| TB_03 |	Port TRUNK Switch L2_01 - VLAN Allowed 199 seulement |
+| TB_04 |	Server DHCP - Mauvaise Adresse IP carte réseau Server DHCP |
+| TB_05 |	Messagerie Internet - Mauvais mot de passe compte user2 + mauvais smtp user1 |
+| TB_06 |	Server DNS mauvaise passerelle |
+| TB_07	|   PC's Prod - Mauvaise config carte réseau |
+| TB_08 |	AP Wifi dans le mauvais VLAN + mauvais password dans l'AP |
+| TB_09 |	Cable réseau + 100m (vue physique) + Laptop 03 n'est plus dans la couverture WLAN (vue physique)  + Laptop 02  inversion cablage tel IP port Switch/PC |
+| TB_10 |	SVI Shutdown Switch L3 + Désactivation Services DHCP + Désactivation Services DNS + SVI VLAN 20 192.168.22.1 |
 
 
 # Ressources / Cours
@@ -150,15 +150,15 @@ _
 # Lien des Lab4Skills VLAN 1 à 3
 
 ### **Lab4skills VLAN 1/3 - 06012023**
-[Lien - Lab4skills VLAN 1/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/3dbd2f78c3402cfde91362ad5a1b8ebdad9fff99/other_lab/vlan%201/Correction%20Exo%201%20et%20Exo%202%20+%20Lien%20cours.md)
+[Lien - Lab4skills VLAN 1/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/1836a81ab8870036711bc62f5134a929ba3ce1a0/other_lab/vlan%201/Correction%20Exo%201%20et%20Exo%202%20+%20Lien%20cours.md)
 
 
 ### **Lab4skills VLAN 2/3 - 13012023**
-[Lien - Lab4skills VLAN 2/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/3dbd2f78c3402cfde91362ad5a1b8ebdad9fff99/other_lab/vlan%202/Lab4skills_VLAN_130123%20.md)
+[Lien - Lab4skills VLAN 2/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/1836a81ab8870036711bc62f5134a929ba3ce1a0/other_lab/vlan%202/Lab4skills_VLAN_130123%20.md)
 
 
 ### **Lab4skills VLAN 3/3 - 20012023**
-[Lien - Lab4skills VLAN 3/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/3dbd2f78c3402cfde91362ad5a1b8ebdad9fff99/Lab4skills_VLAN_200123.md)
+[Lien - Lab4skills VLAN 3/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/1836a81ab8870036711bc62f5134a929ba3ce1a0/Lab4skills_VLAN_200123.md)
 
 _
 
