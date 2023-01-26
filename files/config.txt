@@ -1,0 +1,237 @@
+Switch L3
+
+
+vlan 10
+name Serveurs
+vlan 20
+name Clients
+vlan 30
+name Interco_Internet
+vlan 50
+name Production
+vlan 60
+name VoIP
+vlan 99
+name Management
+vlan 199
+name native_vlan
+
+ip routing
+
+int vlan 10
+ip address 192.168.10.1 255.255.255.0
+no sh
+
+int vlan 20
+ip address 192.168.20.1 255.255.255.0
+ip helper-address 192.168.10.100
+no sh
+
+int vlan 30
+ip address 192.168.30.1 255.255.255.0
+no sh
+
+int vlan 50
+ip address 192.168.50.1 255.255.255.0
+no sh
+
+int vlan 60
+ip address 192.168.60.1 255.255.255.0
+ip helper-address 192.168.10.100
+no sh
+
+int vlan 99
+ip address 192.168.99.1 255.255.255.0
+no sh
+
+int vlan 199
+ip address 192.168.199.1 255.255.255.0
+no sh
+
+int range G1/0/10-20
+switchport mode trunk
+switchport trunk allowed vlan 10,20,30,50,60,99,199
+switchport trunk native vlan 199
+no sh
+
+int G1/0/24
+description interco_internet
+switchport mode access
+switchport access vlan 30
+no sh
+
+ip route 0.0.0.0 0.0.0.0 192.168.30.254
+
+ip domain-name domain.com.
+service password-encryption
+crypto key generate rsa general-keys modulus 1024
+username cisco privilege 15 secret cisco
+enable secret cisco
+line vty 0 15
+login local
+transport input ssh
+ip ssh version 2
+banner motd # ATTENTION VOUS ENCOUREZ DES POURSUITES #
+
+do wr mem
+
+do wr mem
+
+
+_______________
+
+Switch L2
+
+vlan 10
+name Serveurs
+vlan 20
+name Clients
+vlan 30
+name Interco_Internet
+vlan 50
+name Production
+vlan 60
+name VoIP
+vlan 99
+name Management
+vlan 199
+name native_vlan
+
+
+int vlan 99
+ip address 192.168.99.252 255.255.255.0
+no sh
+
+ip default-gateway 192.168.99.1
+
+int range G0/1-2
+switchport mode trunk
+switchport trunk allowed vlan 10,20,30,50,60,99,199
+switchport trunk native vlan 199
+no sh
+
+int range Fa0/1-9
+description Clients
+switchport mode access
+switchport access vlan 20
+no sh
+
+int range Fa0/10-15
+description Clients_VoIP
+switchport mode access 
+switchport access vlan 20
+switchport voice vlan 60
+no sh
+
+
+int range Fa0/16-20
+description Production
+switchport mode access
+switchport access vlan 50
+no sh
+
+ip domain-name domain.com.
+service password-encryption
+crypto key generate rsa general-keys modulus 1024
+username cisco privilege 15 secret cisco
+enable secret cisco
+line vty 0 15
+login local
+transport input ssh
+ip ssh version 2
+banner motd # ATTENTION VOUS ENCOUREZ DES POURSUITES #
+
+do wr mem
+
+do wr mem
+
+________________
+
+vSwitch
+
+vlan 10
+name Serveurs
+vlan 20
+name Clients
+vlan 30
+name Interco_Internet
+vlan 50
+name Production
+vlan 60
+name VoIP
+vlan 99
+name Management
+vlan 199
+name native_vlan
+
+
+int vlan 99
+ip address 192.168.99.253 255.255.255.0
+no sh
+
+ip default-gateway 192.168.99.1
+
+int range G0/1-2
+switchport mode trunk
+switchport trunk allowed vlan 10,20,30,50,60,99,199
+switchport trunk native vlan 199
+no sh
+
+
+int range Fa0/1-10
+description Serveurs
+switchport mode access 
+switchport access vlan 10
+no sh
+
+int range Fa0/16-20
+description Production
+switchport mode access
+switchport access vlan 50
+no sh
+
+ip domain-name domain.com.
+service password-encryption
+crypto key generate rsa general-keys modulus 1024
+username cisco privilege 15 secret cisco
+enable secret cisco
+line vty 0 15
+login local
+transport input ssh
+ip ssh version 2
+banner motd # ATTENTION VOUS ENCOUREZ DES POURSUITES #
+
+do wr mem
+
+do wr mem
+
+
+_____ SSH ISP WAN ____
+
+ip domain-name domain.com.
+service password-encryption
+crypto key generate rsa general-keys modulus 1024
+username admin privilege 15 secret HelloWorld
+enable secret HelloWorld
+line vty 0 15
+login local
+transport input ssh
+ip ssh version 2
+banner motd # ATTENTION VOUS ENCOUREZ DES POURSUITES #
+
+do wr mem
+
+_____ SSH routeur FAI ____
+
+ip domain-name domain.com.
+service password-encryption
+crypto key generate rsa general-keys modulus 1024
+username cisco privilege 15 secret cisco
+enable secret cisco
+line vty 0 15
+login local
+transport input ssh
+ip ssh version 2
+banner motd # ATTENTION VOUS ENCOUREZ DES POURSUITES #
+
+do wr mem
