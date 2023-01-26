@@ -4,7 +4,6 @@
 [Lien](https://github.com/spoofingcorp/lab4skills/blob/3dbd2f78c3402cfde91362ad5a1b8ebdad9fff99/other_lab/vlan%201/Exercice%20VLAN%20N2%20-%20Routage%20Inter-VLAN%20-%20SVI%20L3%20-%20Master%20Class%20VLAN%20(vierge).pkt)
 
 
-
 ## Cours réseau (Présentation Master Class)
 [Lien](https://viacesifr-my.sharepoint.com/:b:/g/personal/remi_brusse_viacesi_fr/EYv26XNoUKhHuX_aq4yDplsBBgkrrQ8iKtDhOI5x6-8SGA?e=0MsZYg)
 
@@ -253,8 +252,5 @@ no
 ```
 
 
-
-
-
-
+## A vous maintenant
 

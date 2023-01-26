@@ -1,4 +1,4 @@
-# **Lab4skills VLAN 3/3 - 20012023**
+# Lab4skills VLAN 3/3 - 20012023
 
 # Déroulé journée
 
@@ -199,3 +199,6 @@ do show mac-address-table
 sh ip route
 do sh ip route
 ```
+
+
+## A vous maintenant
