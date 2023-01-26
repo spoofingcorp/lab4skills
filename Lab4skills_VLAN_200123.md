@@ -53,29 +53,28 @@ Vous êtes salarié de la sociéte de prestation de service **BestNetworkTech** 
 [Lien - Prérequis Logiciel Packet Tracer 8.2.0](https://skillsforall.com/course/getting-started-cisco-packet-tracer?userLang=fr-FR) 
 
 
-## Lien Alternatif - REPACK Exercices TB_01 à TB_10
-[Lien Alternatif - REPACK Exercices TB_01 à TB_10](https://nc.spoofing.cloudns.pro/s/3x36QQETjFJFFf5)
 
-## Exercices Troubleshooting *(télécharger les exercices avec Ctrl + clique droit)*
-[Lien - LAB TB_01.pka](https://viacesifr-my.sharepoint.com/:u:/g/personal/remi_brusse_viacesi_fr/EVhO0ix3g6NChatC0GRwVrwB-y5n93Lftb7ndh2fE5sMfg?e=aE9LxC)  
+## Exercices Troubleshooting - Github
 
-[Lien - LAB TB_02.pka](https://viacesifr-my.sharepoint.com/:u:/g/personal/remi_brusse_viacesi_fr/EScN2SsIw05JjMmB59zg4KEBwwIugYc-5tVNWavUgKyz5A?e=cLXHau)  
+[Lien - LAB TB_01.pka](https://github.com/spoofingcorp/lab4skills/blob/8ab3079010d3544aaba1d8571248651a973ada1a/files/TB_01.pkt)  
 
-[Lien - LAB TB_03.pka](https://viacesifr-my.sharepoint.com/:u:/g/personal/remi_brusse_viacesi_fr/Ea9kZOp8IXVHkmcTwx2KkAMBYPZ_PeHiRs3tgImfuieJQw?e=hc6UFu)
+[Lien - LAB TB_02.pka](https://github.com/spoofingcorp/lab4skills/blob/8ab3079010d3544aaba1d8571248651a973ada1a/files/TB_02.pkt)  
 
-[Lien - LAB TB_04.pka](https://viacesifr-my.sharepoint.com/:u:/g/personal/remi_brusse_viacesi_fr/EZT0TvohEntLmIJ6bHOMkToBenQKFXPpj5zQ_2vDtig6ZA?e=nuf59k) 
+[Lien - LAB TB_03.pka](https://github.com/spoofingcorp/lab4skills/blob/8ab3079010d3544aaba1d8571248651a973ada1a/files/TB_03.pkt)
 
-[Lien - LAB TB_05.pka](https://viacesifr-my.sharepoint.com/:u:/g/personal/remi_brusse_viacesi_fr/EZAEFJ-MxZtMrw_cN29FyiQBtzZ3jEyoljb8Z1vCv16jdw?e=X3bMcS)   
+[Lien - LAB TB_04.pka](https://github.com/spoofingcorp/lab4skills/blob/8ab3079010d3544aaba1d8571248651a973ada1a/files/TB_04.pkt) 
 
-[Lien - LAB TB_06.pka](https://viacesifr-my.sharepoint.com/:u:/g/personal/remi_brusse_viacesi_fr/EUUVpWBsu9pBo0gilb7yNH4BfOKU4Wl0l34e-p8BOCdu6g?e=c2tUE3)  
+[Lien - LAB TB_05.pka](https://github.com/spoofingcorp/lab4skills/blob/8ab3079010d3544aaba1d8571248651a973ada1a/files/TB_05.pkt)   
 
-[Lien - LAB TB_07.pka](https://viacesifr-my.sharepoint.com/:u:/g/personal/remi_brusse_viacesi_fr/EUC3JPDebAVGkIgG_7nM3pABXQAGuWgZjbg6AmhC-LeH7A?e=rmQaOn)  
+[Lien - LAB TB_06.pka](https://github.com/spoofingcorp/lab4skills/blob/8ab3079010d3544aaba1d8571248651a973ada1a/files/TB_06.pkt)  
 
-[Lien - LAB TB_08.pka](https://viacesifr-my.sharepoint.com/:u:/g/personal/remi_brusse_viacesi_fr/EQrmJFMA0XJIu0eaiOYyATQB58w5V_SCCf3bWPbabGCRyA?e=QMPceX)  
+[Lien - LAB TB_07.pka](https://github.com/spoofingcorp/lab4skills/blob/8ab3079010d3544aaba1d8571248651a973ada1a/files/TB_07.pkt)  
 
-[Lien - LAB TB_09.pka](https://viacesifr-my.sharepoint.com/:u:/g/personal/remi_brusse_viacesi_fr/ERNC4_S2WyROpYiNliByIAEB8z1IkiUKrSWEsY4xYcMipQ?e=288L8s)  
+[Lien - LAB TB_08.pka](https://github.com/spoofingcorp/lab4skills/blob/8ab3079010d3544aaba1d8571248651a973ada1a/files/TB_08.pkt)  
 
-[Lien - LAB TB_10.pka](https://viacesifr-my.sharepoint.com/:u:/g/personal/remi_brusse_viacesi_fr/Eeb7FYNhhpFNjhdW8WXZsO0BIn6wdp5L90nXUgR2cuEqMw?e=zgl5Uo)  
+[Lien - LAB TB_09.pka](https://github.com/spoofingcorp/lab4skills/blob/8ab3079010d3544aaba1d8571248651a973ada1a/files/TB_09.pkt)  
+
+[Lien - LAB TB_10.pka](https://github.com/spoofingcorp/lab4skills/blob/8ab3079010d3544aaba1d8571248651a973ada1a/files/TB_10.pkt)  
 
 # Critère d'évaluation / rendu
 
