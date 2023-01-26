@@ -1,14 +1,8 @@
 # Cours et correction Master Class VLAN 1/3 - 06012023
 
 ## Lien Exercice Packet Tracer VLAN 1/3
-[Lien](https://viacesifr-my.sharepoint.com/:u:/g/personal/remi_brusse_viacesi_fr/ETVlYZLCWFlHr3ipHvfpkIkBrdN2k-hrUQnWk0KueYzuWw?e=rl0SVh)
+[Lien](https://github.com/spoofingcorp/lab4skills/blob/3dbd2f78c3402cfde91362ad5a1b8ebdad9fff99/other_lab/vlan%201/Exercice%20VLAN%20N2%20-%20Routage%20Inter-VLAN%20-%20SVI%20L3%20-%20Master%20Class%20VLAN%20(vierge).pkt)
 
-
-### Envoyer votre Packet Tracer terminé sur le dépôt suivant nommé de la façon suivante:
-[Lien](https://nc.spoofing.cloudns.pro/s/FZcJSsD4DTyZQ7C)
-
-Nom_Prénom_MC_VLAN1
-Vous ne verrez pas votre fichier ce n'est qu'une boite de dépôt
 
 
 ## Cours réseau (Présentation Master Class)

@@ -150,17 +150,15 @@ _
 # Lien des Lab4Skills VLAN 1 à 3
 
 ### **Lab4skills VLAN 1/3 - 06012023**
-[Lien - Lab4skills VLAN 1/3 - Consignes + Exo + Correction](https://viacesifr-my.sharepoint.com/:t:/g/personal/remi_brusse_viacesi_fr/EYTqMuoeRq9CqsqMlerthAwBgqxq2zkQK6ZPdw5hCcsNSQ?e=PCj6T0)
+[Lien - Lab4skills VLAN 1/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/3dbd2f78c3402cfde91362ad5a1b8ebdad9fff99/other_lab/vlan%201/Correction%20Exo%201%20et%20Exo%202%20+%20Lien%20cours.md)
 
 
 ### **Lab4skills VLAN 2/3 - 13012023**
-[Lien - Lab4skills VLAN 2/3 - Consignes + Exo + Correction](https://viacesifr-my.sharepoint.com/:t:/g/personal/remi_brusse_viacesi_fr/EVis5lkJsdNGi_9BcI5eWwcBSYBIlVLe8DVbx6po82F_kw?e=jxOom2)
-
-[Lien - Lab4skills VLAN 2/3 - Replay](https://passw.zoom.us/rec/share/CGwgCYVbmhn9ERbL767OdZADDuGmgIM2V3nT9c_DFg0QlMuL8cbADWXaknk_xlGi.vXaBLOY9Y5wRDqEg)  -  Code secret : g4.xbR8@
+[Lien - Lab4skills VLAN 2/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/3dbd2f78c3402cfde91362ad5a1b8ebdad9fff99/other_lab/vlan%202/Lab4skills_VLAN_130123%20.md)
 
 
 ### **Lab4skills VLAN 3/3 - 20012023**
-[Lien - Lab4skills VLAN 3/3 - Consignes + Exo](https://viacesifr-my.sharepoint.com/:t:/g/personal/remi_brusse_viacesi_fr/EYySI0oeMftNg3CB6fkeEvsBKWH0A9fxE-6dlj--xDod4g?e=9ZA18c)
+[Lien - Lab4skills VLAN 3/3 - Consignes + Exo](https://github.com/spoofingcorp/lab4skills/blob/3dbd2f78c3402cfde91362ad5a1b8ebdad9fff99/Lab4skills_VLAN_200123.md)
 
 _
 

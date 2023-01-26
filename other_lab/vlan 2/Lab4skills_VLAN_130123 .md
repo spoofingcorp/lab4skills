@@ -26,7 +26,7 @@ Vous êtes salarié d'une sociéte de prestation de service (BestNetworkTech) et
 
 # LAB Packet Tracer VLAN Ubisoft
 
-[Lien - LAB Packet Tracer - VLAN_Ubisoft.pka](https://viacesifr-my.sharepoint.com/:u:/g/personal/remi_brusse_viacesi_fr/EYU-SQafJe1Dofw6bcd9-0wBwkFTbl2Y_nT98AHAdWt0HQ?e=cIbHLJ)  
+[Lien - LAB Packet Tracer - VLAN_Ubisoft.pka](https://github.com/spoofingcorp/lab4skills/blob/3dbd2f78c3402cfde91362ad5a1b8ebdad9fff99/other_lab/vlan%202/MC%20Ubisoft%20VLAN2.pkt)  
 
 [Lien - Logiciel Packet Tracer 8.2.0](https://skillsforall.com/course/getting-started-cisco-packet-tracer?userLang=fr-FR) *(Il faudra vous créer un compte Cisco Skills for All)*
 
@@ -41,18 +41,6 @@ Une fois les configurations réalisées, renseigner les IP/Masque/Paserelle sur 
 **Tu vas y arriver !!!**
 
 Comme la semaine dernière, vous devrez nous faire parvenir votre sauvegarde de l'exercice Packet Tracer Ubisoft dans la boite de dépôt suivante.  
-
-
-
-# Boite de dépôt rendu
-
-Envoyer votre Packet Tracer terminé sur le dépôt suivant nommé de la façon suivante:
-
-Nom_Prénom_MC_VLAN_2.pka
-
-[Lien - boîte de dépôt](https://nc.spoofing.cloudns.pro/s/FZcJSsD4DTyZQ7C)
-
-Vous ne verrez pas votre fichier ce n'est qu'une boite de dépôt.  
 
 
 # Ressources / Cours
