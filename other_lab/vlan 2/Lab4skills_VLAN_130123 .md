@@ -1,4 +1,4 @@
-# **Lab4skills VLAN 1/2 - 13012023**
+# **Lab4skills VLAN 2/3 - 13012023**
 
 # Déroulé journée
 
@@ -7,7 +7,7 @@
 - Consignes du jour et présentation des attentes *(Ne pas faire en même temps, suivre et prendre des notes)*  
 
 
-# Consignes Lab4skills VLAN 1/2
+# Consignes Lab4skills VLAN 2/3
 
 Vous êtes salarié d'une sociéte de prestation de service (BestNetworkTech) et intervenez chez votre client Ubisoft à Bordeaux.
 
