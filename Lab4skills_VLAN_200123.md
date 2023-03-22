@@ -89,20 +89,95 @@ Cette fois, vous devrez nous faire parvenir vos résultats en fin de scéance vi
 
 # Correction Troubleshooting
 
-	
+<details>
+  <summary>TB_01 </summary>
+
 | Exercices | Pannes |
 | -------- | ---------- |
 | TB_01 |	Port Shutdown Switch_L2_01 > Laptop 01 |
+
+</details>
+
+<details>
+  <summary>TB_02 </summary>
+
+| Exercices | Pannes |
+| -------- | ---------- |
 | TB_02 |	WAN interface G0/0/0 shutdown |
+
+</details>
+
+<details>
+  <summary>TB_03 </summary>
+
+| Exercices | Pannes |
+| -------- | ---------- |
 | TB_03 |	Port TRUNK Switch L2_01 - VLAN Allowed 199 seulement |
+
+</details>
+
+<details>
+  <summary>TB_04 </summary>
+
+| Exercices | Pannes |
+| -------- | ---------- |
 | TB_04 |	Server DHCP - Mauvaise Adresse IP carte réseau Server DHCP |
+
+</details>
+
+<details>
+  <summary>TB_05 </summary>
+
+| Exercices | Pannes |
+| -------- | ---------- |
 | TB_05 |	Messagerie Internet - Mauvais mot de passe compte user2 + mauvais smtp user1 |
+
+</details>
+
+<details>
+  <summary>TB_06 </summary>
+
+| Exercices | Pannes |
+| -------- | ---------- |
 | TB_06 |	Server DNS mauvaise passerelle |
+
+</details>
+
+<details>
+  <summary>TB_07 </summary>
+
+| Exercices | Pannes |
+| -------- | ---------- |
 | TB_07	|   PC's Prod - Mauvaise config carte réseau |
+
+</details>
+
+<details>
+  <summary>TB_08 </summary>
+
+| Exercices | Pannes |
+| -------- | ---------- |
 | TB_08 |	AP Wifi dans le mauvais VLAN + mauvais password dans l'AP |
+
+</details>
+
+<details>
+  <summary>TB_09 </summary>
+
+| Exercices | Pannes |
+| -------- | ---------- |
 | TB_09 |	Cable réseau + 100m (vue physique) + Laptop 03 n'est plus dans la couverture WLAN (vue physique)  + Laptop 02  inversion cablage tel IP port Switch/PC |
+
+</details>
+
+<details>
+  <summary>TB_10 </summary>
+
+| Exercices | Pannes |
+| -------- | ---------- |
 | TB_10 |	SVI Shutdown Switch L3 + Désactivation Services DHCP + Désactivation Services DNS + SVI VLAN 20 192.168.22.1 |
 
+</details>
 
 # Ressources / Cours
 
