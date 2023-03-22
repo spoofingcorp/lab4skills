@@ -92,9 +92,9 @@ Cette fois, vous devrez nous faire parvenir vos résultats en fin de scéance vi
 	
 | Exercices | Pannes |
 | -------- | ---------- |
->! | TB_01 |	Port Shutdown Switch_L2_01 > Laptop 01 |
->! | TB_02 |	WAN interface G0/0/0 shutdown |
->! | TB_03 |	Port TRUNK Switch L2_01 - VLAN Allowed 199 seulement |
+| TB_01 |	>! Port Shutdown Switch_L2_01 > Laptop 01 |
+| TB_02 |	>! WAN interface G0/0/0 shutdown |
+| TB_03 |	Port TRUNK Switch L2_01 - VLAN Allowed 199 seulement |
 | TB_04 |	Server DHCP - Mauvaise Adresse IP carte réseau Server DHCP |
 | TB_05 |	Messagerie Internet - Mauvais mot de passe compte user2 + mauvais smtp user1 |
 | TB_06 |	Server DNS mauvaise passerelle |
