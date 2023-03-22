@@ -140,6 +140,7 @@ Cette fois, vous devrez nous faire parvenir vos résultats en fin de scéance vi
 | Exercices | Pannes |
 | -------- | ---------- |
 | TB_06 |	Server DNS mauvaise passerelle |
+<<<<<<< HEAD
 
 </details>
 
@@ -157,6 +158,9 @@ Cette fois, vous devrez nous faire parvenir vos résultats en fin de scéance vi
 
 | Exercices | Pannes |
 | -------- | ---------- |
+=======
+| TB_07	|  	 PC's Prod - Mauvaise config carte réseau |
+>>>>>>> ffd8767b5a8807d1850eeefd82452f5ea2b8fd02
 | TB_08 |	AP Wifi dans le mauvais VLAN + mauvais password dans l'AP |
 
 </details>
