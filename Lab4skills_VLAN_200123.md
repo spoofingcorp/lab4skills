@@ -92,13 +92,13 @@ Cette fois, vous devrez nous faire parvenir vos résultats en fin de scéance vi
 	
 | Exercices | Pannes |
 | -------- | ---------- |
-| TB_01 |	Port Shutdown Switch_L2_01 > Laptop 01 |
-| TB_02 |	WAN interface G0/0/0 shutdown |
-| TB_03 |	Port TRUNK Switch L2_01 - VLAN Allowed 199 seulement |
+>! | TB_01 |	Port Shutdown Switch_L2_01 > Laptop 01 |
+>! | TB_02 |	WAN interface G0/0/0 shutdown |
+>! | TB_03 |	Port TRUNK Switch L2_01 - VLAN Allowed 199 seulement |
 | TB_04 |	Server DHCP - Mauvaise Adresse IP carte réseau Server DHCP |
 | TB_05 |	Messagerie Internet - Mauvais mot de passe compte user2 + mauvais smtp user1 |
 | TB_06 |	Server DNS mauvaise passerelle |
-| TB_07	|   PC's Prod - Mauvaise config carte réseau |
+| TB_07	|  	 PC's Prod - Mauvaise config carte réseau |
 | TB_08 |	AP Wifi dans le mauvais VLAN + mauvais password dans l'AP |
 | TB_09 |	Cable réseau + 100m (vue physique) + Laptop 03 n'est plus dans la couverture WLAN (vue physique)  + Laptop 02  inversion cablage tel IP port Switch/PC |
 | TB_10 |	SVI Shutdown Switch L3 + Désactivation Services DHCP + Désactivation Services DNS + SVI VLAN 20 192.168.22.1 |
