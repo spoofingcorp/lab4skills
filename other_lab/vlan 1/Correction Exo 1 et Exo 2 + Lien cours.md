@@ -5,7 +5,7 @@
 
 
 ## Cours réseau (Présentation Master Class)
-[Lien](https://viacesifr-my.sharepoint.com/:b:/g/personal/remi_brusse_viacesi_fr/EYv26XNoUKhHuX_aq4yDplsBBgkrrQ8iKtDhOI5x6-8SGA?e=0MsZYg)
+[Lien]()
 
 ## Cours réseau Cisco CCNA 1 à 4
 [Lien](https://learn.spoofing.cloudns.pro)
