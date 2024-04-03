@@ -1,4 +1,4 @@
-# Cours et correction VLAN 1/3 - 03042024
+# LAB VLAN 1/3 - 03042024
 
 ## Lien Exercice Packet Tracer VLAN 1/3
 [Lien](https://github.com/spoofingcorp/lab4skills/blob/3dbd2f78c3402cfde91362ad5a1b8ebdad9fff99/other_lab/vlan%201/Exercice%20VLAN%20N2%20-%20Routage%20Inter-VLAN%20-%20SVI%20L3%20-%20Master%20Class%20VLAN%20(vierge).pkt)
@@ -17,7 +17,7 @@ Rappel:
 
 # Exercice 01 - VLAN N2
 
-### Cours VLAN
+### Cours VLAN ⚠️ (Attention ceci est un exemple, mettre en correspondance vos interfaces ⚠️
 [Lien](https://learn.spoofing.cloudns.pro/ccna2/course/module3/index.html#3.2.1.1)
 
 ```
@@ -40,7 +40,7 @@ switchport access vlan 20
 do wr
 ```
 
-### Mettre en correspondance les interfaces du switch avec les PC dans le bon VLAN
+### ⚠️ Mettre en correspondance les interfaces du switch avec les PC dans le bon VLAN ⚠️
 ### Tester de pinguer les postes de vlan20 à vlan20 et de vlan20 à vlan10
 ### Les PC du VLAN 20 doivent pouvoir se pinguer
 ### Les PC du VLAN 20 ne peuvent pas pinguer les PC du VLAN 10 et inverssement
