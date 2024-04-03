@@ -5,7 +5,7 @@
 
 
 ## Cours réseau (Présentation Master Class)
-[Lien]()
+[Lien](https://github.com/spoofingcorp/lab4skills/blob/main/files/%5BCOURS%5D%20Cisco%20CCNAv7.pdf)
 
 ## Cours réseau Cisco CCNA 1 à 4
 [Lien](https://learn.spoofing.cloudns.pro)
