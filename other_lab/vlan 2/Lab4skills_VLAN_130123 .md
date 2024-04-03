@@ -60,7 +60,7 @@ Comme la semaine dernière, vous devrez nous faire parvenir votre sauvegarde de 
 [Lien - Cisco CCNA](https://learn.spoofing.cloudns.pro)
 
 ## Cours réseau (Présentation Master Class VLAN 1/2)
-[Lien - Présentation](https://viacesifr-my.sharepoint.com/:b:/g/personal/remi_brusse_viacesi_fr/EYv26XNoUKhHuX_aq4yDplsBBgkrrQ8iKtDhOI5x6-8SGA?e=0MsZYg)
+[Lien - Présentation](https://github.com/spoofingcorp/lab4skills/blob/main/files/%5BCOURS%5D%20Cisco%20CCNAv7.pdf)
 
 
 # Pour aller plus loin / améliorations
