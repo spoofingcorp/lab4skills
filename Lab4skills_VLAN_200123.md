@@ -188,12 +188,7 @@ Cette fois, vous devrez nous faire parvenir vos résultats en fin de scéance vi
 [Lien - Cisco CCNA](https://learn.spoofing.cloudns.pro)
 
 ## Cours réseau (Présentation Master Class VLAN)
-[Lien - Présentation](https://viacesifr-my.sharepoint.com/:b:/g/personal/remi_brusse_viacesi_fr/EYv26XNoUKhHuX_aq4yDplsBBgkrrQ8iKtDhOI5x6-8SGA?e=0MsZYg)
-
-## Cours ITIL - Troubleshooting (Présentation VLAN 3/3)
-[Lien - Présentation](https://viacesifr-my.sharepoint.com/:p:/g/personal/remi_brusse_viacesi_fr/EcVGU5lRZSFLrjfyN3RjSjwBIn-7hHLXgWmPG0zf5bVpyQ?e=lqS3zc)
-
-
+[Lien - Présentation](https://github.com/spoofingcorp/lab4skills/blob/main/files/%5BCOURS%5D%20Cisco%20CCNAv7.pdf)
 
 
 # Pour aller plus loin / améliorations
