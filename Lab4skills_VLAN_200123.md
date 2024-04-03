@@ -36,9 +36,9 @@ Vous êtes salarié de la sociéte de prestation de service **BestNetworkTech** 
 
 - Tester, verifier les configurations IP des postes, le client de messagerie gmail, le WLAN, les login, mot de passe, les URL des services internes comme l'accès à l'ERP ou au WinCC Siemens depuis la Prod... 
 
-- Utilisez les commandes `sh run` et  `sh ip int br` pour observer les configurations des switchs et routeurs.
+- Utilisez les commandes `sh run` et  `sh ip int br` ou `sh int status` pour observer les configurations des switchs et routeurs.
 
-- Utilisez les commandes `sh vlan` ou `sh int trunk` pour vérifier les configurations des switchs.
+- Utilisez les commandes `sh vlan` ou `sh int trunk`pour vérifier les configurations des switchs.
 
 - Noter le resultat de votre troubleshooting avec le numéro de l'exercice sur papier ou sur un doc pour nous soumettre vos réponses en fin de scéance *(Merci de ne pas partager vos résultats, cela nuirait à l'acquisition des compétences des autres stagiaires)*
 
