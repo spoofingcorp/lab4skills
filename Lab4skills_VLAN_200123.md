@@ -78,11 +78,9 @@ Vous êtes salarié de la sociéte de prestation de service **BestNetworkTech** 
 
 # Critère d'évaluation / rendu
 
-Comme le jour de l'examen TSSR en présence du jury, vous resolvez des pannes sur une maquette similaire à celle d'aujourd'hui pour valider vos compétences et votre méthodologie.
+Comme en production, vous resolvez des pannes sur une maquette similaire à celle d'aujourd'hui pour valider vos compétences et votre méthodologie.
 
 **Tu vas y arriver !!!**
-
-Cette fois, vous devrez nous faire parvenir vos résultats en fin de scéance via un sondage sur Zoom. 
 
 **N'oubliez pas de noter vos resultats (la panne que vous avez identifiée et corrigée) / numéro de l'exercice**
 
