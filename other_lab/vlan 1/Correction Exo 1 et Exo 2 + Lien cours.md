@@ -17,8 +17,10 @@ Rappel:
 
 # Exercice 01 - VLAN N2
 
-## Cours VLAN ⚠️ (Attention ceci est un exemple, mettre en correspondance vos interfaces ⚠️
+## Cours VLAN 
 [Lien](https://learn.spoofing.cloudns.pro/ccna2/course/module3/index.html#3.2.1.1)
+
+⚠️ (Attention ceci est un exemple, mettre en correspondance vos interfaces ⚠️
 
 ```
 en
