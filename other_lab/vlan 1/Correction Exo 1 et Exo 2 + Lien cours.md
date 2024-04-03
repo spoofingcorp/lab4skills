@@ -17,7 +17,7 @@ Rappel:
 
 # Exercice 01 - VLAN N2
 
-### Cours VLAN ⚠️ (Attention ceci est un exemple, mettre en correspondance vos interfaces ⚠️
+## Cours VLAN ⚠️ (Attention ceci est un exemple, mettre en correspondance vos interfaces ⚠️
 [Lien](https://learn.spoofing.cloudns.pro/ccna2/course/module3/index.html#3.2.1.1)
 
 ```
@@ -40,15 +40,15 @@ switchport access vlan 20
 do wr
 ```
 
-### ⚠️ Mettre en correspondance les interfaces du switch avec les PC dans le bon VLAN ⚠️
-### Tester de pinguer les postes de vlan20 à vlan20 et de vlan20 à vlan10
-### Les PC du VLAN 20 doivent pouvoir se pinguer
-### Les PC du VLAN 20 ne peuvent pas pinguer les PC du VLAN 10 et inverssement
+- ⚠️ Mettre en correspondance les interfaces du switch avec les PC dans le bon VLAN ⚠️
+- Tester de pinguer les postes de vlan20 à vlan20 et de vlan20 à vlan10
+- Les PC du VLAN 20 doivent pouvoir se pinguer
+- Les PC du VLAN 20 ne peuvent pas pinguer les PC du VLAN 10 et inverssement
 
 
 # Exercice 02 - Routeur + VLAN N2
 
-### Switch (la configuration est similaire au 1er exercice, c'est l'ajout du routeur en tant que passerelle qui va permettre de router le traffic de VLAN 10 à 20, et inverssement.
+## Switch (la configuration est similaire au 1er exercice, c'est l'ajout du routeur en tant que passerelle qui va permettre de router le traffic de VLAN 10 à 20, et inverssement.
 
 ```
 en
@@ -89,14 +89,14 @@ no sh
 do wr
 ```
 
-### Mettre en correspondance les interfaces du switch avec les PC dans le bon VLAN, idem pour les interfaces du routeur.
-### Tester de pinguer les postes de vlan20 à vlan20 et de vlan20 à vlan10 
-### Cette fois le routage opéré par le routeur permet de router le traffic entre les VLAN 10 et 20
+- ⚠️ Mettre en correspondance les interfaces du switch avec les PC dans le bon VLAN, idem pour les interfaces du routeur. ⚠️
+- Tester de pinguer les postes de vlan20 à vlan20 et de vlan20 à vlan10 
+- Cette fois le routage opéré par le routeur permet de router le traffic entre les VLAN 10 et 20
 
 
 # Exercice 03 - Router On Stick + VLAN Trunk
 
-### Configuration du switch avec un port en mode Trunk vers le routeur on stick
+## Configuration du switch avec un port en mode Trunk vers le routeur on stick
 
 ```
 en
@@ -151,9 +151,9 @@ no sh
 do wr 
 ```
 
-### Mettre en correspondance les interfaces du switch avec les PC dans le bon VLAN, idem sur le routeur.
-### Tester de pinguer les postes de vlan20 à vlan20 et de vlan20 à vlan10.
-### Cette fois le routage opéré par le routeur on stick permet de router le traffic entre les VLAN 10 et 20 et inverssement.
+- ⚠️ Mettre en correspondance les interfaces du switch avec les PC dans le bon VLAN, idem sur le routeur. ⚠️
+- Tester de pinguer les postes de vlan20 à vlan20 et de vlan20 à vlan10.
+- Cette fois le routage opéré par le routeur on stick permet de router le traffic entre les VLAN 10 et 20 et inverssement.
 
 
 # Exercice 4 - SVI Switch Virtual Interface - Switch L3
@@ -191,9 +191,9 @@ switchport access vlan 20
 do wr mem
 ```
 
-### Mettre en correspondance les interfaces du switch avec les PC dans le bon VLAN.
-### Tester de pinguer les postes de vlan20 à vlan20 et de vlan20 à vlan10 
-### Cette fois le routage opéré par le Switch en mode Niveau 3 permet de router le traffic entre les VLAN 10 et 20 et inverssement.
+- ⚠️ Mettre en correspondance les interfaces du switch avec les PC dans le bon VLAN. ⚠️
+- Tester de pinguer les postes de vlan20 à vlan20 et de vlan20 à vlan10 
+- Cette fois le routage opéré par le Switch en mode Niveau 3 permet de router le traffic entre les VLAN 10 et 20 et inverssement.
 
 
 
