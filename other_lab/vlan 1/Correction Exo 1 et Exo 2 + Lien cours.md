@@ -7,8 +7,7 @@
 ## Cours réseau (Présentation Master Class)
 [Lien](https://github.com/spoofingcorp/lab4skills/blob/main/files/%5BCOURS%5D%20Cisco%20CCNAv7.pdf)
 
-## Cours réseau Cisco CCNA 1 à 4
-[Lien](https://learn.spoofing.cloudns.pro)
+## Cours réseau Cisco CCNA 1 à 4 [Lien du cours](https://learn.spoofing.cloudns.pro)
 
 Rappel:
 
@@ -17,8 +16,7 @@ Rappel:
 
 # Exercice 01 - VLAN N2
 
-## Cours VLAN 
-[Lien](https://learn.spoofing.cloudns.pro/ccna2/course/module3/index.html#3.2.1.1)
+## Cours VLAN [Lien du cours](https://learn.spoofing.cloudns.pro/ccna2/course/module3/index.html#3.2.1.1)
 
 ⚠️ (Attention ceci est un exemple, mettre en correspondance vos interfaces ⚠️
 
@@ -73,8 +71,7 @@ do wr
 ```
 
 ## Configuration du Routeur
-### Cours configuration routeur
-[Lien](https://learn.spoofing.cloudns.pro/ccna2/course/module4/index.html#4.1.3.2)
+### Cours configuration routeur [Lien du cours](https://learn.spoofing.cloudns.pro/ccna2/course/module4/index.html#4.1.3.2)
 
 ```
 en
@@ -128,9 +125,7 @@ do wr mem
 ```
 
 # Configuration du routeur on stick
-## Cours Router On Stick 
-
-[Lien](https://learn.spoofing.cloudns.pro/ccna2/course/module5/index.html#5.1.3.2)
+## Cours Router On Stick [Lien du cours](https://learn.spoofing.cloudns.pro/ccna2/course/module5/index.html#5.1.3.2)
 
 ```
 en
@@ -159,8 +154,7 @@ do wr
 
 
 # Exercice 4 - SVI Switch Virtual Interface - Switch L3
-## Cours Switch niveau 3
-[Lien](https://learn.spoofing.cloudns.pro/ccna2/course/module5/index.html#5.3.1.3)
+## Cours Switch niveau 3 [Lien du cours](https://learn.spoofing.cloudns.pro/ccna2/course/module5/index.html#5.3.1.3)
 
 ```
 en
