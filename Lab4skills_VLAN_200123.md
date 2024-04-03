@@ -217,16 +217,16 @@ _
 
 # Lien des Lab4Skills VLAN 1 à 3
 
-### **Lab4skills VLAN 1/3 - 06012023**
-[Lien - Lab4skills VLAN 1/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/1836a81ab8870036711bc62f5134a929ba3ce1a0/other_lab/vlan%201/Correction%20Exo%201%20et%20Exo%202%20+%20Lien%20cours.md)
+### **LAB VLAN 1/3**
+[Lien - VLAN 1/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/1836a81ab8870036711bc62f5134a929ba3ce1a0/other_lab/vlan%201/Correction%20Exo%201%20et%20Exo%202%20+%20Lien%20cours.md)
 
 
-### **Lab4skills VLAN 2/3 - 13012023**
-[Lien - Lab4skills VLAN 2/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/1836a81ab8870036711bc62f5134a929ba3ce1a0/other_lab/vlan%202/Lab4skills_VLAN_130123%20.md)
+### **LAB VLAN 2/3**
+[Lien - VLAN 2/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/1836a81ab8870036711bc62f5134a929ba3ce1a0/other_lab/vlan%202/Lab4skills_VLAN_130123%20.md)
 
 
-### **Lab4skills VLAN 3/3 - 20012023**
-[Lien - Lab4skills VLAN 3/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/1836a81ab8870036711bc62f5134a929ba3ce1a0/Lab4skills_VLAN_200123.md)
+### **LAB VLAN 3/3**
+[Lien - VLAN 3/3 - Consignes + Exo + Correction](https://github.com/spoofingcorp/lab4skills/blob/1836a81ab8870036711bc62f5134a929ba3ce1a0/Lab4skills_VLAN_200123.md)
 
 _
 
